@@ -1,4 +1,4 @@
-<img align='center' alt="image" height="480" width="1600" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif">
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTljZjlmNWYxNzk3ZjdlNDBiNGM3OTA3OGY2MzllNjhhZDRjNWRkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/nMgRIV5aq66DX7Y1Qc/giphy.gif)
 <h1 align="center">Hi 👋, I'm Himanjal Saha</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align='right' alt="image" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
