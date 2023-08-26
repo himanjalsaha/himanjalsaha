@@ -1,14 +1,15 @@
 <!-- Introduction -->
 <p align="center">
-  <img src="https://media.giphy.com/media/XTAqdwCL2oEus/giphy.gif" alt="Animated Hello" width="400" />
+ 
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
 <h3 align="center">Passionate Backend Developer</h3>
 
+
 <!-- Bio -->
 <p align="center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" alt="Coding Animation" width="280" />
+ 
 </p>
 
 <p align="center">
