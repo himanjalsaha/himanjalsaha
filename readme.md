@@ -45,7 +45,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="background-color: white; padding: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="MongoDB" width="40" height="40"/>
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="MongoDB" width="40" height="40"/>
    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="MongoDB" width="40" height="40"/>
