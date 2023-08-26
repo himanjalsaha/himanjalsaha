@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub world! I'm on a journey to master the art of backend development, and I'm excited to share my progress with you.
+  Welcome to my corner of the coding universe! I'm on a mission to master the intricate art of backend development and turn ideas into functional realities.
 </p>
 
 <!-- Contact and Social Links -->
@@ -42,6 +42,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <!-- Add more of your skills here -->
+  <!-- Example: -->
+  <!-- <img src="icon-url-here" alt="Skill Name" width="40" height="40"/> -->
 </p>
 
 <!-- GitHub Stats -->
@@ -57,7 +59,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanjalsaha" alt="GitHub Streak">
 </p>
 
+<!-- Recent Activities -->
+<h3 align="center">Recent Activities</h3>
+<!-- You can manually add links to your recent activities here -->
+<!-- Example: -->
+<!-- - [Created a new project: "Project Name"](project-link) -->
+<!-- - [Published an article on Medium: "Article Title"](article-link) -->
+<!-- - ... -->
+
 <!-- Conclusion -->
 <p align="center">
-  Thanks for stopping by! Let's connect and collaborate to create amazing backend solutions.
+  Thanks for stopping by! Let's connect, collaborate, and build incredible backend solutions together.
 </p>
