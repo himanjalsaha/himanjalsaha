@@ -41,8 +41,9 @@
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C" width="40" height="40"/>
+
+ <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="C" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
