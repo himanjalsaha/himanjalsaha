@@ -64,8 +64,7 @@
 <!-- Recent Activities -->
 <h3 align="center">Recent Activities</h3>
 <ul align="center">
-  <li>🚀 [Launched a new project: "Project Name"](project-link)</li>
-  <li>✍️ [Published an article on Medium: "Article Title"](article-link)</li>
+ 
   <!-- Add more recent activities as needed -->
 </ul>
 
