@@ -1,17 +1,12 @@
 <!-- Introduction -->
 <p align="center">
- 
+  <!-- Add an image/logo if you have one -->
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
 <h3 align="center">Passionate Backend Developer</h3>
 
-
 <!-- Bio -->
-<p align="center">
- 
-</p>
-
 <p align="center">
   Welcome to my corner of the coding universe! I'm on a mission to master the intricate art of backend development and turn ideas into functional realities.
 </p>
@@ -40,20 +35,18 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C" width="40" height="40"/>
-
- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="C" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
- <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="MongoDB" width="40" height="40"/>
- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="MongoDB" width="40" height="40"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
   <!-- Add more icons here -->
 </p>
-
 
 <!-- GitHub Stats -->
 <p align="center">
