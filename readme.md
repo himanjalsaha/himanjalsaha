@@ -63,11 +63,27 @@
 
 <!-- Recent Activities -->
 <h3 align="center">Recent Activities</h3>
-<!-- You can manually add links to your recent activities here -->
-<!-- Example: -->
-<!-- - [Created a new project: "Project Name"](project-link) -->
-<!-- - [Published an article on Medium: "Article Title"](article-link) -->
-<!-- - ... -->
+<ul align="center">
+  <li>🚀 [Launched a new project: "Project Name"](project-link)</li>
+  <li>✍️ [Published an article on Medium: "Article Title"](article-link)</li>
+  <!-- Add more recent activities as needed -->
+</ul>
+
+<!-- Technologies and Skills -->
+<h3 align="center">Technologies and Skills</h3>
+<p align="center">
+  <strong>Backend:</strong> Node.js, Express.js, Django<br>
+  <strong>Frontend:</strong> React, React Native<br>
+  <strong>Database:</strong> MongoDB, Firebase<br>
+  <strong>Tools:</strong> Git, VSCode, Docker<br>
+  <!-- Add more technologies and skills as needed -->
+</p>
+
+<!-- Coding Stats and Contributions -->
+<h3 align="center">Coding Stats and Contributions</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanjalsaha&theme=nord" alt="GitHub Trophies">
+</p>
 
 <!-- Conclusion -->
 <p align="center">
