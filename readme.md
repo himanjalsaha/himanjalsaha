@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <p align="center">
-  <!-- Add an image/logo if you have one -->
+  <img src="https://your-image-url.com" alt="Profile Image" width="150" height="150">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
@@ -35,16 +35,16 @@
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C++" title="C++" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" title="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
   <!-- Add more icons here -->
 </p>
 
