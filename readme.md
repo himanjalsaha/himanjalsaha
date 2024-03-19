@@ -29,7 +29,7 @@
 
 <!-- Learning and Interests -->
 <p align="center">
-  <em>🌱 Currently diving deep into <strong>Node.js</strong> and <strong>Django</strong> 🌱</em>
+  <em>🌱 Currently diving deep into <strong>Node.js</strong> and <strong>React</strong> 🌱</em>
 </p>
 
 <!-- Languages and Tools -->
@@ -87,4 +87,5 @@
 <!-- Conclusion -->
 <p align="center">
   Thanks for stopping by! Let's connect, collaborate, and build incredible backend solutions together.
+  **portfolio: https://portfolio-nine-orpin-98.vercel.app/
 </p>
