@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <p align="center">
-  <img src="https://your-image-url.com" alt="Profile Image" width="150" height="150">
+  <img src="https://media.licdn.com/dms/image/D4E03AQHVt6gp1S2TnQ/profile-displayphoto-shrink_400_400/0/1689089389735?e=1724284800&v=beta&t=TCIvLW5Ho7jgZQgrfIT-mu74gO2tTgaOnTLeLcjzlCM" alt="Profile Image" width="150" height="150">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
