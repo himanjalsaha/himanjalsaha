@@ -1,6 +1,6 @@
 <!-- Introduction -->
 <p align="center">
- <img src="https://media.licdn.com/dms/image/D4E03AQHVt6gp1S2TnQ/profile-displayphoto-shrink_400_400/0/1689089389735?e=1724284800&v=beta&t=TCIvLW5Ho7jgZQgrfIT-mu74gO2tTgaOnTLeLcjzlCM" alt="Profile Image" width="150" height="150" style="border-radius: "50%">
+  <img src="https://media.licdn.com/dms/image/D4E03AQHVt6gp1S2TnQ/profile-displayphoto-shrink_400_400/0/1689089389735?e=1724284800&v=beta&t=TCIvLW5Ho7jgZQgrfIT-mu74gO2tTgaOnTLeLcjzlCM" alt="Profile Image" width="150" height="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
@@ -64,7 +64,6 @@
 <!-- Recent Activities -->
 <h3 align="center">Recent Activities</h3>
 <ul align="center">
- 
   <!-- Add more recent activities as needed -->
 </ul>
 
@@ -86,6 +85,6 @@
 
 <!-- Conclusion -->
 <p align="center">
-  Thanks for stopping by! Let's connect, collaborate, and build incredible backend solutions together.
-  **portfolio: https://portfolio-nine-orpin-98.vercel.app/
+  Thanks for stopping by! Let's connect, collaborate, and build incredible backend solutions together.<br>
+  **portfolio: https://portfolio-nine-orpin-98.vercel.app/**
 </p>
