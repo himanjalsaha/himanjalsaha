@@ -1,90 +1,84 @@
-<!-- Introduction -->
+
+
+### Web Developer | MERN Stack Enthusiast
+
+<a href="https://github.com/himanjalsaha">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA07A&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile;I'm+Himanjal+Saha%2C+a+Web+Developer+with+a+passion+for+building+scalable+and+efficient+applications;I+specialize+in+the+MERN+stack%2C+with+a+strong+focus+on+JavaScript%2C+Node.js%2C+Express%2C+MongoDB%2C+and+React;" alt="Typing SVG" />
+</a>
+
+### GitHub Stats
+---------------
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanjalsaha&theme=solarized-light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanjalsaha&theme=solarized-light&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanjalsaha&langs_count=10&layout=compact&theme=solarized-light&hide_border=true" />
+</div>
+
+### Tech Stack
+-------------
+
+#### Programming Languages
+
+* JavaScript ( ECMAScript 2020+ )
+* TypeScript
+* HTML/CSS ( incl. preprocessors like Sass, Less )
+
+#### Frameworks and Libraries
+
+* React 18+
+* Node.js 14+
+* Express.js 4+
+* Next.js 13+
+* MongoDB 6+ ( incl. Mongoose )
+* Redis 7+
+
+#### Tools and Utilities
+
+* Git ( incl. GitHub, GitLab )
+* npm ( incl. yarn )
+* Webpack 5+
+* Babel 7+
+* ESLint 8+
+* Prettier 2+
+
+### Projects
+------------
+
+#### Full-stack Applications
+
+* [Personal Website](https://himanjalsaha.com) ( MERN stack )
+* [Task Management Tool](https://task-manager.himanjalsaha.com) ( MERN stack )
+* [E-commerce Platform](https://ecommerce.himanjalsaha.com) ( MERN stack )
+
+#### React Projects
+
+* [React UI Components](https://github.com/himanjalsaha/react-ui-components) ( incl. React Hooks, Context API )
+* [React Routing Example](https://github.com/himanjalsaha/react-routing-example) ( incl. React Router v6 )
+
+#### Node.js Projects
+
+* [Node.js API Example](https://github.com/himanjalsaha/nodejs-api-example) ( incl. Express.js, MongoDB )
+* [Node.js Web Server Example](https://github.com/himanjalsaha/nodejs-web-server-example) ( incl. Express.js, HTTP/2 )
+
+### Stats Cards
+--------------
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4E03AQHVt6gp1S2TnQ/profile-displayphoto-shrink_400_400/0/1689089389735?e=1724284800&v=beta&t=TCIvLW5Ho7jgZQgrfIT-mu74gO2tTgaOnTLeLcjzlCM" alt="Profile Image" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://stats-card.himanjalsaha.workers.dev/?username=himanjalsaha&label=Profile%20Views&width=120&height=20&unit=views&text_color=black&align=center" />
+  <img src="https://stats-card.himanjalsaha.workers.dev/?username=himanjalsaha&label=Follower%20Count&width=120&height=20&unit=followers&text_color=black&align=center" />
+  <img src="https://stats-card.himanjalsaha.workers.dev/?username=himanjalsaha&label=Repo%20Count&width=120&height=20&unit=repos&text_color=black&align=center" />
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Himanjal Saha</h1>
-<h3 align="center">Passionate Backend Developer</h3>
+### Connect with Me
+-------------------
 
-<!-- Bio -->
-<p align="center">
-  Welcome to my corner of the coding universe! I'm on a mission to master the intricate art of backend development and turn ideas into functional realities.
-</p>
+* [Personal Website](https://himanjalsaha.com)
+* [Twitter](https://twitter.com/himanjalsaha)
+* [LinkedIn](https://linkedin.com/in/himanjalsaha)
+* [GitHub](https://github.com/himanjalsaha)
 
-<!-- Contact and Social Links -->
-<p align="center">
-  <a href="mailto:himanjalsaha97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-himanjalsaha97%40gmail.com-red" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/himanjal-saha-263143247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/himanjal.isnt_it">
-    <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4" alt="Instagram">
-  </a>
-  <a href="https://www.codechef.com/users/himanjal_s">
-    <img src="https://img.shields.io/badge/Codechef-Profile-brightgreen" alt="Codechef">
-  </a>
-</p>
+### Email
+--------
 
-<!-- Learning and Interests -->
-<p align="center">
-  <em>🌱 Currently diving deep into <strong>Node.js</strong> and <strong>React</strong> 🌱</em>
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" title="React Native" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c++.svg" alt="C++" title="C++" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" title="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" title="Flask" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express.js" title="Express.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <!-- Add more icons here -->
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanjalsaha&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanjalsaha&show_icons=true&locale=en" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanjalsaha" alt="GitHub Streak">
-</p>
-
-<!-- Recent Activities -->
-<h3 align="center">Recent Activities</h3>
-<ul align="center">
-  <!-- Add more recent activities as needed -->
-</ul>
-
-<!-- Technologies and Skills -->
-<h3 align="center">Technologies and Skills</h3>
-<p align="center">
-  <strong>Backend:</strong> Node.js, Express.js, Django<br>
-  <strong>Frontend:</strong> React, React Native<br>
-  <strong>Database:</strong> MongoDB, Firebase<br>
-  <strong>Tools:</strong> Git, VSCode, Docker<br>
-  <!-- Add more technologies and skills as needed -->
-</p>
-
-<!-- Coding Stats and Contributions -->
-<h3 align="center">Coding Stats and Contributions</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanjalsaha&theme=nord" alt="GitHub Trophies">
-</p>
-
-<!-- Conclusion -->
-<p align="center">
-  Thanks for stopping by! Let's connect, collaborate, and build incredible backend solutions together.<br>
-  **portfolio: https://portfolio-nine-orpin-98.vercel.app/**
-</p>
+<himanjalsaha.dev@gmail.com>
