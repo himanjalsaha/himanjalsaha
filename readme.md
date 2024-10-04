@@ -1,108 +1,60 @@
-**himanjalsaha's GitHub README**
-=====================================
+# 🌟 Welcome to My GitHub Profile 🌟
 
-### About Me
+Hi, I'm Himanjal Saha 👋, a passionate web developer with a strong focus on the MERN (MongoDB, Express, React, Node.js) stack. I'm excited to share my projects, skills, and experiences with you. Let's dive in! 🚀
 
-Hi, I'm Himanjal Saha, a passionate web developer with a focus on the MERN (MongoDB, Express, React, Node.js) stack. I'm excited to share my coding journey with you through this GitHub README.
-
-**Stats**
---------
-
-Here are my GitHub stats:
+## 📊 GitHub Stats 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanjalsaha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanjalsaha&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himanjalsaha&theme=radical)](https://git.io/streak-stats)
 
-**MERN Stack Expertise**
-------------------------
+## 🏆 Trophies 🏆
 
-I specialize in building scalable and efficient web applications using the MERN stack. My expertise includes:
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanjalsaha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-* Frontend: React, React Hooks, Redux, CSS3, HTML5
-* Backend: Node.js, Express, MongoDB, APIs
-* Database: MongoDB, Mongoose
-* Testing: Jest, Enzyme, Mocha
+## 💻 Projects 💻
 
-**Projects**
-------------
+### Featured Projects
 
-Here are some of my notable projects:
+| Project Name | Description | Tech Stack |
+| --- | --- | --- |
+| [Project 1](https://github.com/himanjalsaha/project-1) | A brief description of Project 1 | MongoDB, Express, React, Node.js |
+| [Project 2](https://github.com/himanjalsaha/project-2) | A brief description of Project 2 | MongoDB, Express, React, Node.js |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanjalsaha&repo=Project1)](https://github.com/himanjalsaha/Project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanjalsaha&repo=Project2)](https://github.com/himanjalsaha/Project2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=himanjalsaha&repo=Project3)](https://github.com/himanjalsaha/Project3)
+### Other Notable Projects
 
-**Skills**
-------------
+| Project Name | Description | Tech Stack |
+| --- | --- | --- |
+| [Project 3](https://github.com/himanjalsaha/project-3) | A brief description of Project 3 | MongoDB, Express, React, Node.js |
+| [Project 4](https://github.com/himanjalsaha/project-4) | A brief description of Project 4 | MongoDB, Express, React, Node.js |
 
-Here are my skills in detail:
+## 📚 Skills 📚
 
 ### Programming Languages
 
-* JavaScript (Node.js, React)
-* HTML5
-* CSS3 (SASS, Less)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html5/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
 ### Frameworks and Libraries
 
-* Express
-* React
-* Redux
-* Mongoose
-* Jest
-* Enzyme
-* Mocha
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ### Databases
 
-* MongoDB
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-### Tools
+## 📊 Typing SVGs 📊
 
-* Git
-* GitHub
-* Visual Studio Code
-* Webpack
-* Babel
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=20&lines=I'm+Himanjal+Saha;Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-**Goals**
-----------
+## 📈 Get in Touch 📈
 
-My goals for the next quarter are:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanjalsaha/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/himanjalsaha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanjalsaha@email.com)
 
-* Improve my knowledge of TypeScript and its integration with React
-* Explore Next.js and its benefits
-* Build more projects using the MERN stack and showcase them on GitHub
-
-**Contact Me**
---------------
-
-Want to discuss a project or collaboration? Feel free to reach out to me on:
-
-* Twitter: [https://twitter.com/himanjalsaha](https://twitter.com/himanjalsaha)
-* LinkedIn: [https://www.linkedin.com/in/himanjalsaha](https://www.linkedin.com/in/himanjalsaha)
-* Email: [himansaha@email.com](mailto:himansaha@email.com)
-
-**Personal Projects**
---------------------
-
-Here are some of my personal projects that I'm working on in my free time:
-
-* [Project1]: A full-stack web application using React, Node.js, and MongoDB
-* [Project2]: A React Native app for tracking personal expenses
-* [Project3]: A machine learning model using TensorFlow.js for image classification
-
-**Stats Cards**
-----------------
-
-Here are my GitHub stats cards:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanjalsaha&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanjalsaha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himanjalsaha&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-**Contributions**
------------------
-
-I'm open to contributions and collaborations. If you have an idea for a project or want to contribute to one of my existing projects, feel free to reach out to me.
-
-Thanks for visiting my GitHub README! Let's connect and build something amazing together.
+## 🚀 Let's Build Something Amazing 🚀
